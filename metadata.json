@@ -1,0 +1,8 @@
+{
+  "name": "Orange Loans Botswana",
+  "description": "Instant Orange Money business and personal financing in Botswana with flexible repayments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
